@@ -1,4 +1,4 @@
-// This is a text-based version of Minesweeper. Based on the mine.c assignment from the ECE 15 class at UCSD.
+// This is a text-based version of Minesweeper.
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
